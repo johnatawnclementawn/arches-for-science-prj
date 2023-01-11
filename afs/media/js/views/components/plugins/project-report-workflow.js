@@ -3,7 +3,8 @@ define([
     'jquery',
     'arches',
     'viewmodels/workflow',
-], function(ko, $, arches, Workflow) {
+    'viewmodels/alert',
+], function(ko, $, arches, Workflow, AlertViewModel) {
     return ko.components.register('project-report-workflow', {
         viewModel: function(params) {
             this.componentName = 'project-report-workflow';
