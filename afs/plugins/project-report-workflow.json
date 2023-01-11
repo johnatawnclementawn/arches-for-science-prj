@@ -1,0 +1,12 @@
+{
+    "pluginid": "e8afb040-bee4-475e-837d-c39ed99c6a7c",
+    "name": "Project Report",
+    "icon": "fa fa-file-text",
+    "component": "views/components/plugins/project-report-workflow",
+    "componentname": "project-report-workflow",
+    "config": {
+        "show": true
+    },
+    "slug": "project-report-workflow",
+    "sortorder": 0
+}
