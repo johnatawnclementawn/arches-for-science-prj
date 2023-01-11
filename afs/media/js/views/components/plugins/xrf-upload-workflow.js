@@ -3,8 +3,9 @@ define([
     'jquery',
     'arches',
     'viewmodels/workflow',
+    'viewmodels/alert',
     'views/components/workflows/xrf-upload-workflow/dataset-step',
-], function(ko, $, arches, Workflow) {
+], function(ko, $, arches, Workflow, AlertViewModel) {
     return ko.components.register('xrf-upload-workflow', {
         viewModel: function(params) {
             this.componentName = 'xrf-upload-workflow';
