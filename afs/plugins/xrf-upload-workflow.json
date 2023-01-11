@@ -1,0 +1,12 @@
+{
+    "pluginid": "1e21f0db-d110-4e43-978f-ae8d66cb57a7",
+    "name": "XRF File Upload",
+    "icon": "fa fa-upload",
+    "component": "views/components/plugins/xrf-upload-workflow",
+    "componentname": "xrf-upload-workflow",
+    "config": {
+        "show": false
+    },
+    "slug": "xrf-upload-workflow",
+    "sortorder": 0
+}
