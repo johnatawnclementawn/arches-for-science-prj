@@ -5,7 +5,7 @@
     "component": "views/components/plugins/project-report-workflow",
     "componentname": "project-report-workflow",
     "config": {
-        "show": true
+        "show": false
     },
     "slug": "project-report-workflow",
     "sortorder": 0
